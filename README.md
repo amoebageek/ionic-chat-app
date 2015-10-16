@@ -1,5 +1,9 @@
 A Basic Hybrid App build on IonicFramework And Firebase. :) 
 =====================
+Build you app 
+
+ionic build android
+
 You can test the build 
 
-/ionicChat/platforms/android/build/outputs/apk/android-debug.apk
+platforms/android/build/outputs/apk/android-debug.apk
